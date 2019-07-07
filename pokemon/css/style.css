@@ -1,0 +1,22 @@
+/* CSS Document */
+
+#poke{
+	width: 60px;
+	}
+.total{
+	
+	max-width:1200 px;
+	width: 80%;
+	min-width:600px;
+	background-color:#F0F;
+	}	
+.table{
+	width:100%;
+	}	
+.container-fluid{
+	max-width:1200 px;
+	width: 80%;
+		min-width:600px;
+	}	
+.linha{
+	display:inline-block;}	
